@@ -248,5 +248,3 @@ COMMENT ON COLUMN GEN_AI_POC_SNOWFLAKECOE.SDLC_WIZARD.ETL_RECONCILIATION_LOG.NUL
     'Count of records where WEIGHT_KG was NULL or <= 0 and was
 
 ---
-
-### FILE: 05_stored_procedure_sp_load_aerospace_parts_scd1.sql ###
